@@ -7,7 +7,7 @@
 |                                                 |  |
 |-----------------------------------------------  |- |
 | diziyi ikiye bölüyoruz| 16,21,11,8,12,22 |
-|sol ve sağdaki dizileri tekrar ikiye bölüyoruz|16,21,11 ----- 8,12,22|
+|sol ve sağdaki dizileri tekrar ikiye bölüyoruz|16,21,11 _______ 8,12,22|
 | tek eleman kalasaya kadar tekrar ikiye bölüyoruz | 16,21 --- 11 ___________ 8,12 --- 22|
 |Tek eleman kalana kadar bir kez daha bölüyoruz.		| 16 --- 21 --- 11 _________ 8 --- 12 --- 22 |
 
